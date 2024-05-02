@@ -7,8 +7,8 @@
 
 - 💻 Sou Desenvolvedor e Licenciado em Letras
 - 🎓 Estudo Desenvolvimento Web e Mobile no momento
-- 🌱 Atualmente, estou aprofundando meus conhecimentos em Desenvolvimento Web e Mobile.
-- 👯 Procuro projetos legais e interessantes para colaborar e aprender bastante. Bora codar juntos?
+- 👨‍💻 Atualmente, estou aprofundando meus conhecimentos em Desenvolvimento Web e Mobile.
+- 🔎 Procuro projetos legais e interessantes para colaborar e aprender bastante. Bora codar juntos?
 
 ---
 
