@@ -3,7 +3,7 @@
 
 <img align="right" width="200" src="https://www.mandatory.com/wp-content/uploads/sites/10/gallery/tmnt-35-years/take-an-online-course-in-computer-coding.gif"/>
 
-### Aqui eu compartilho alguns dos meus estudos, projetos pessoais e colaborativos, além dos desenvolvidos ao decorrer do bootcamp Santander 2024 - Backend com Java.
+### Aqui eu compartilho alguns dos meus estudos, projetos pessoais e colaborativos, além dos desenvolvidos ao decorrer dos cursos que estou realizando.
 
 - 💻 Sou Desenvolvedor e Licenciado em Letras
 - 🎓 Estudo Desenvolvimento Web e Mobile no momento
